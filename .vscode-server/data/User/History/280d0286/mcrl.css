@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+    color: #FFFFFF;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

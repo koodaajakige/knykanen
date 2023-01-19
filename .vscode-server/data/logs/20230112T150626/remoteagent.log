@@ -1,0 +1,49 @@
+2023-01-12 15:06:26.679 [info] Extension host agent started.
+2023-01-12 15:06:26.947 [info] [127.0.0.1][9df260eb][ManagementConnection] New connection established.
+2023-01-12 15:06:27.152 [info] [127.0.0.1][c5f94c64][ExtensionHostConnection] New connection established.
+2023-01-12 15:06:27.159 [info] [127.0.0.1][c5f94c64][ExtensionHostConnection] <205636> Launched Extension Host Process.
+2023-01-12 15:06:29.173 [error] CodeExpectedError: Could not find pty on pty host
+    at h.J (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:27:6395)
+    at h.updateTitle (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:27:2665)
+    at Object.call (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:17:5110)
+    at r.q (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:15:5390)
+    at r.p (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:15:4881)
+    at /home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:15:4286
+    at n.invoke (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at C.deliver (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:11:2038)
+    at v.fire (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:11:1676)
+    at process.O (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/platform/terminal/node/ptyHostMain.js:9:20886)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-01-12 15:06:31.213 [info] [127.0.0.1][9df260eb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-12 15:06:31.230 [info] [127.0.0.1][c5f94c64][ExtensionHostConnection] <205636> Extension Host Process exited with code: 0, signal: null.
+2023-01-12 15:06:31.231 [info] Last EH closed, waiting before shutting down
+2023-01-12 15:06:34.493 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-12 15:06:34.493 [info] Cancelling previous shutdown timeout
+2023-01-12 15:06:34.726 [info] [127.0.0.1][026416c1][ManagementConnection] New connection established.
+2023-01-12 15:06:34.855 [info] [127.0.0.1][3a2fe939][ExtensionHostConnection] New connection established.
+2023-01-12 15:06:34.870 [info] [127.0.0.1][3a2fe939][ExtensionHostConnection] <205738> Launched Extension Host Process.
+2023-01-12 15:07:16.193 [info] [127.0.0.1][026416c1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-12 15:07:16.211 [info] [127.0.0.1][3a2fe939][ExtensionHostConnection] <205738> Extension Host Process exited with code: 0, signal: null.
+2023-01-12 15:07:16.211 [info] Cancelling previous shutdown timeout
+2023-01-12 15:07:16.211 [info] Last EH closed, waiting before shutting down
+2023-01-12 15:07:16.516 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-12 15:07:16.516 [info] Cancelling previous shutdown timeout
+2023-01-12 15:07:16.770 [info] [127.0.0.1][3d89d57c][ManagementConnection] New connection established.
+2023-01-12 15:07:16.871 [info] [127.0.0.1][3a24d0a1][ExtensionHostConnection] New connection established.
+2023-01-12 15:07:16.877 [info] [127.0.0.1][3a24d0a1][ExtensionHostConnection] <205909> Launched Extension Host Process.
+2023-01-12 15:07:26.957 [info] [127.0.0.1][3d89d57c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-12 15:07:26.975 [info] [127.0.0.1][3a24d0a1][ExtensionHostConnection] <205909> Extension Host Process exited with code: 0, signal: null.
+2023-01-12 15:07:26.975 [info] Cancelling previous shutdown timeout
+2023-01-12 15:07:26.975 [info] Last EH closed, waiting before shutting down
+2023-01-12 15:07:30.421 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-12 15:07:30.421 [info] Cancelling previous shutdown timeout
+2023-01-12 15:07:30.760 [info] [127.0.0.1][be21ddef][ManagementConnection] New connection established.
+2023-01-12 15:07:30.776 [info] [127.0.0.1][ffaf9b49][ExtensionHostConnection] New connection established.
+2023-01-12 15:07:30.782 [info] [127.0.0.1][ffaf9b49][ExtensionHostConnection] <206023> Launched Extension Host Process.
+2023-01-12 15:12:30.422 [info] New EH opened, aborting shutdown
+2023-01-12 15:14:11.127 [info] [127.0.0.1][be21ddef][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-12 15:14:11.219 [info] [127.0.0.1][ffaf9b49][ExtensionHostConnection] <206023> Extension Host Process exited with code: 0, signal: null.
+2023-01-12 15:14:11.219 [info] Last EH closed, waiting before shutting down
+2023-01-12 15:19:11.221 [info] Last EH closed, shutting down

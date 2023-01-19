@@ -1,0 +1,43 @@
+2023-01-12 12:00:27.197 [info] Log level: Info
+2023-01-12 12:00:27.197 [info] Validating found git in: "git"
+2023-01-12 12:00:27.197 [info] Using git "2.30.2" from "git"
+2023-01-12 12:00:27.197 [info] > git rev-parse --show-toplevel [43ms]
+2023-01-12 12:00:27.197 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-12 12:00:27.197 [info] Open repository: /home/knykanen/public_html/redirect
+2023-01-12 12:00:27.197 [info] > git config --get commit.template [2ms]
+2023-01-12 12:00:27.198 [warning] No remotes found in the git config file.
+2023-01-12 12:00:27.198 [info] > git remote --verbose [1ms]
+2023-01-12 12:00:27.198 [info] > git status -z -uall [5ms]
+2023-01-12 12:00:27.198 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-12 12:00:27.198 [info] > git config --get commit.template [0ms]
+2023-01-12 12:00:27.198 [warning] No remotes found in the git config file.
+2023-01-12 12:00:27.198 [info] > git remote --verbose [1ms]
+2023-01-12 12:00:27.198 [info] > git status -z -uall [3ms]
+2023-01-12 12:00:27.198 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 12:00:27.198 [info] > git check-ignore -v -z --stdin [1ms]
+2023-01-12 12:00:27.198 [info] > git show --textconv :index.php [5ms]
+2023-01-12 12:00:27.198 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/index.php [2ms]
+2023-01-12 12:00:27.198 [info] > git cat-file -s 022c7f72e08a12e34e42fc56248dade93a540ea4 [1ms]
+2023-01-12 12:01:07.100 [info] > git check-ignore -v -z --stdin [30ms]
+2023-01-12 12:01:07.120 [info] > git show --textconv :lomake.html [5ms]
+2023-01-12 12:01:07.121 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/lomake.html [2ms]
+2023-01-12 12:01:07.475 [info] > git config --get commit.template [24ms]
+2023-01-12 12:01:07.486 [warning] No remotes found in the git config file.
+2023-01-12 12:01:07.498 [info] > git remote --verbose [12ms]
+2023-01-12 12:01:07.507 [info] > git status -z -uall [4ms]
+2023-01-12 12:01:07.508 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-12 12:02:04.603 [info] > git config --get commit.template [1ms]
+2023-01-12 12:02:04.607 [warning] No remotes found in the git config file.
+2023-01-12 12:02:04.607 [info] > git remote --verbose [1ms]
+2023-01-12 12:02:04.614 [info] > git status -z -uall [3ms]
+2023-01-12 12:02:04.615 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 12:02:31.208 [info] > git config --get commit.template [9ms]
+2023-01-12 12:02:31.212 [warning] No remotes found in the git config file.
+2023-01-12 12:02:31.213 [info] > git remote --verbose [1ms]
+2023-01-12 12:02:31.221 [info] > git status -z -uall [4ms]
+2023-01-12 12:02:31.222 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-12 12:03:47.666 [warning] No remotes found in the git config file.
+2023-01-12 12:03:47.666 [info] > git config --get commit.template [4ms]
+2023-01-12 12:03:47.667 [info] > git remote --verbose [1ms]
+2023-01-12 12:03:47.674 [info] > git status -z -uall [4ms]
+2023-01-12 12:03:47.674 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]

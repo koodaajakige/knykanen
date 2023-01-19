@@ -1,0 +1,25 @@
+2023-01-16 10:29:42.835 [info] Extension host agent started.
+2023-01-16 10:29:43.041 [info] [127.0.0.1][4c224c91][ManagementConnection] New connection established.
+2023-01-16 10:29:43.063 [info] [127.0.0.1][a1a308fb][ExtensionHostConnection] New connection established.
+2023-01-16 10:29:43.066 [info] [127.0.0.1][a1a308fb][ExtensionHostConnection] <808319> Launched Extension Host Process.
+2023-01-16 10:29:59.951 [info] [127.0.0.1][4c224c91][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 10:29:59.966 [info] [127.0.0.1][a1a308fb][ExtensionHostConnection] <808319> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 10:29:59.967 [info] Last EH closed, waiting before shutting down
+2023-01-16 10:30:04.051 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-16 10:30:04.051 [info] Cancelling previous shutdown timeout
+2023-01-16 10:30:04.305 [info] [127.0.0.1][ceaa3a41][ManagementConnection] New connection established.
+2023-01-16 10:30:04.448 [info] [127.0.0.1][958d9801][ExtensionHostConnection] New connection established.
+2023-01-16 10:30:04.461 [info] [127.0.0.1][958d9801][ExtensionHostConnection] <808461> Launched Extension Host Process.
+2023-01-16 10:30:15.735 [info] [127.0.0.1][ceaa3a41][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-16 10:30:15.747 [info] [127.0.0.1][958d9801][ExtensionHostConnection] <808461> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 10:30:15.747 [info] Cancelling previous shutdown timeout
+2023-01-16 10:30:15.747 [info] Last EH closed, waiting before shutting down
+2023-01-16 10:30:19.677 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-01-16 10:30:19.677 [info] Cancelling previous shutdown timeout
+2023-01-16 10:30:20.290 [info] [127.0.0.1][b7c75a7f][ExtensionHostConnection] New connection established.
+2023-01-16 10:30:20.291 [info] [127.0.0.1][f92646a8][ManagementConnection] New connection established.
+2023-01-16 10:30:20.294 [info] [127.0.0.1][b7c75a7f][ExtensionHostConnection] <808580> Launched Extension Host Process.
+2023-01-16 10:35:19.678 [info] New EH opened, aborting shutdown
+2023-01-16 15:27:33.791 [info] [127.0.0.1][b7c75a7f][ExtensionHostConnection] <808580> Extension Host Process exited with code: 0, signal: null.
+2023-01-16 15:27:33.791 [info] Last EH closed, waiting before shutting down
+2023-01-16 15:32:33.792 [info] Last EH closed, shutting down

@@ -1,0 +1,41 @@
+2023-01-13 09:28:55.104 [info] Log level: Info
+2023-01-13 09:28:55.104 [info] Validating found git in: "git"
+2023-01-13 09:28:55.104 [info] Using git "2.30.2" from "git"
+2023-01-13 09:28:55.104 [info] > git rev-parse --show-toplevel [99ms]
+2023-01-13 09:28:55.104 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.104 [info] > git rev-parse --show-toplevel [19ms]
+2023-01-13 09:28:55.104 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-01-13 09:28:55.104 [info] Open repository: /home/knykanen/public_html/redirect
+2023-01-13 09:28:55.104 [info] > git rev-parse --show-toplevel [6ms]
+2023-01-13 09:28:55.104 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.104 [info] > git config --get commit.template [6ms]
+2023-01-13 09:28:55.104 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-13 09:28:55.104 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.104 [warning] No remotes found in the git config file.
+2023-01-13 09:28:55.104 [info] > git remote --verbose [2ms]
+2023-01-13 09:28:55.104 [info] > git rev-parse --show-toplevel [15ms]
+2023-01-13 09:28:55.104 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.104 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2023-01-13 09:28:55.104 [info] > git status -z -uall [58ms]
+2023-01-13 09:28:55.104 [info] > git config --get commit.template [5ms]
+2023-01-13 09:28:55.104 [warning] No remotes found in the git config file.
+2023-01-13 09:28:55.104 [info] > git remote --verbose [2ms]
+2023-01-13 09:28:55.104 [info] > git status -z -uall [4ms]
+2023-01-13 09:28:55.104 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2023-01-13 09:28:55.104 [info] > git check-ignore -v -z --stdin [2ms]
+2023-01-13 09:28:55.152 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/funktio.php [1ms]
+2023-01-13 09:28:55.157 [info] > git show --textconv :funktio.php [9ms]
+2023-01-13 09:28:55.158 [info] > git cat-file -s a2ff897b6af1cf89167da839c163152d513036da [1ms]
+2023-01-13 09:28:55.324 [info] > git rev-parse --show-toplevel [1ms]
+2023-01-13 09:28:55.324 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.352 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-13 09:28:55.352 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2023-01-13 09:28:55.358 [info] > git rev-parse --show-toplevel [2ms]
+2023-01-13 09:28:55.358 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

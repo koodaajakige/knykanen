@@ -1,0 +1,45 @@
+body {
+    font-family: 'Averia Serif Libre', cursive;
+	font-family: 'Open Sans', sans-serif;
+    background-color: rgb(179, 214, 64);
+    max-width: 40em;
+	width: 90%;
+	margin: 1em auto;
+}
+
+
+.leffa {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: 400;
+    background-color: rgb(179, 214, 64);
+    max-width: 40em;
+    width: 90%;
+    margin: 15em auto;
+    text-align: left;
+}
+
+.idleffat {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: 400;
+    background-color: rgb(179, 214, 64);
+    max-width: 40em;
+    width: 90%;
+    margin: 2em auto;
+    text-align: left;
+    }
+
+.nimihaku {
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    font-weight: 500;
+    background-color: rgb(179, 214, 64);
+    max-width: 40em;
+    width: 90%;
+    margin: 1em auto;
+    text-align: left;
+    }

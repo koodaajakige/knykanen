@@ -1,0 +1,13 @@
+2023-01-13 09:34:17.421 [info] Extension host with pid 329839 started
+2023-01-13 09:34:17.522 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a96a6be626b9cf9182aaf1d105aec8b9/vscode.lock': Lock acquired.
+2023-01-13 09:34:17.569 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-13 09:34:17.617 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-13 09:34:17.617 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-13 09:34:17.894 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 09:34:17.894 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 09:34:17.894 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-13 09:34:17.895 [info] Eager extensions activated
+2023-01-13 09:34:18.931 [error] Error: EACCES: permission denied, scandir '/home/koodaaja'
+2023-01-13 09:34:36.676 [info] Extension host terminating: received terminate message from renderer
+2023-01-13 09:34:36.676 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a96a6be626b9cf9182aaf1d105aec8b9/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-13 09:34:36.684 [info] Extension host with pid 329839 exiting with code 0

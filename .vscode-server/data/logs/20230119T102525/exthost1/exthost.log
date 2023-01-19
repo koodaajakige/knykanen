@@ -1,0 +1,22 @@
+2023-01-19 10:25:26.844 [info] Extension host with pid 1307213 started
+2023-01-19 10:25:26.847 [error] Error: EEXIST: file already exists, open '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock'
+2023-01-19 10:25:26.874 [error] SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at g (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:3236)
+    at async d (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:2877)
+    at async R.g (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:1680)
+    at async R.h (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:96:122611)
+2023-01-19 10:25:26.874 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock': Could not acquire lock, checking if the file is stale.
+2023-01-19 10:25:26.880 [error] SyntaxError: Unexpected end of JSON input
+	at JSON.parse (<anonymous>)
+	at g (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:3236)
+	at async m (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:3491)
+	at async R.g (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:101:1680)
+	at async R.h (/home/knykanen/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/out/vs/workbench/api/node/extensionHostProcess.js:96:122611)
+2023-01-19 10:25:26.880 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock': Could not read pid of lock holder.
+2023-01-19 10:25:26.880 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock': Deleting a stale lock.
+2023-01-19 10:25:27.031 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock': Lock acquired.
+2023-01-19 10:25:27.136 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-19 10:25:27.779 [info] Extension host terminating: received terminate message from renderer
+2023-01-19 10:25:27.779 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/a07beead9df97d7ee7813139c550503d/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-19 10:25:27.780 [info] Extension host with pid 1307213 exiting with code 0

@@ -1,0 +1,57 @@
+body{
+	font-family: 'Averia Serif Libre', cursive;
+	font-family: 'Open Sans', sans-serif;
+	max-width: 35em;
+	width: 90%;
+	margin: 1em auto;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	border-bottom: 2px solid #ccc;
+	align-items: flex-end;
+}
+
+header h1{
+	font-size: 200%;
+	font-weight: bold;
+	margin: 0em 2em 0em 0em;
+}
+
+nav ul{
+	display: flex;
+	flex-direction: row;
+	margin: 0em;
+}
+
+nav ul li{
+	display: block;
+	padding: 0.3em 0.5em;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #666;
+}
+
+nav ul li a:hover{
+	color: #ccc;
+}
+
+footer{
+	text-align: center;
+	font-size: 75%;
+	color: #666;
+	border-top: 2px solid #999;
+	padding: 0.5em;
+}
+
+.kuva--oikea{
+	float: right;
+}
+
+.kuva{
+	text-align: center;
+}

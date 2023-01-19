@@ -1,0 +1,10 @@
+   hetuid    | asiakasetunimi | asiakassukunimi |   katuosoite   | postinumeroidd 
+-------------+----------------+-----------------+----------------+----------------
+ 111159-111P | Heikki         | Helppo          | Iisitie 5 C    |           7900
+ 120766-126L | Maikki         | Mielonen        | Ryydynkatu 6 A |           6100
+ 090588-233G | Seppo          | Sankari         | Haukikuja 24 H |          95620
+ 020865-937T | Eija           | Jantunen        | Kalliotie 15 C |            990
+ 260390-458V | Joni           | Laavunen        | Lahnapolku 7 B |          33101
+ 190576-845J | Sirpa          | Savikko         | Toosintie 6 A  |           7900
+(6 rows)
+

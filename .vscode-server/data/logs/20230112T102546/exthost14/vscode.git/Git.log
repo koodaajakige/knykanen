@@ -1,0 +1,19 @@
+2023-01-12 14:39:21.406 [info] Log level: Info
+2023-01-12 14:39:21.406 [info] Validating found git in: "git"
+2023-01-12 14:39:21.406 [info] Using git "2.30.2" from "git"
+2023-01-12 14:39:21.406 [info] > git rev-parse --show-toplevel [59ms]
+2023-01-12 14:39:21.406 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2023-01-12 14:39:21.406 [info] Open repository: /home/knykanen/public_html/redirect
+2023-01-12 14:39:21.406 [info] > git config --get commit.template [2ms]
+2023-01-12 14:39:21.406 [warning] No remotes found in the git config file.
+2023-01-12 14:39:21.406 [info] > git remote --verbose [1ms]
+2023-01-12 14:39:21.406 [info] > git status -z -uall [5ms]
+2023-01-12 14:39:21.406 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2023-01-12 14:39:21.406 [info] > git config --get commit.template [35ms]
+2023-01-12 14:39:21.406 [warning] No remotes found in the git config file.
+2023-01-12 14:39:21.407 [info] > git remote --verbose [2ms]
+2023-01-12 14:39:21.407 [info] > git status -z -uall [4ms]
+2023-01-12 14:39:21.407 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-12 14:39:21.407 [info] > git show --textconv :kigestyle.css [5ms]
+2023-01-12 14:39:21.407 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/kigestyle.css [2ms]
+2023-01-12 14:39:21.512 [info] > git check-ignore -v -z --stdin [1ms]

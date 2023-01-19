@@ -1,0 +1,8 @@
+[user]
+    email = kirsi.nykanen@edu.sasky.fi
+    name = Kirsi Nykänen
+[core]
+    editor = nano
+    pager = "less -FRSX "
+[color]
+    ui = auto

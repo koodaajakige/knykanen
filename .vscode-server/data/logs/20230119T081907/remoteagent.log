@@ -1,0 +1,10 @@
+2023-01-19 08:19:07.337 [info] Extension host agent started.
+2023-01-19 09:05:54.090 [error] [127.0.0.1][997ff28c][ManagementConnection] Unknown reconnection token (never seen).
+2023-01-19 09:05:54.099 [error] [127.0.0.1][09d77a58][ExtensionHostConnection] Unknown reconnection token (never seen).
+2023-01-19 09:07:28.080 [info] [127.0.0.1][d3fc0b9f][ManagementConnection] New connection established.
+2023-01-19 09:07:28.184 [info] [127.0.0.1][d77c06bd][ExtensionHostConnection] New connection established.
+2023-01-19 09:07:28.242 [info] [127.0.0.1][d77c06bd][ExtensionHostConnection] <1295687> Launched Extension Host Process.
+2023-01-19 09:16:34.573 [info] [127.0.0.1][d3fc0b9f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-01-19 09:16:34.590 [info] [127.0.0.1][d77c06bd][ExtensionHostConnection] <1295687> Extension Host Process exited with code: 0, signal: null.
+2023-01-19 09:16:34.591 [info] Last EH closed, waiting before shutting down
+2023-01-19 09:21:34.592 [info] Last EH closed, shutting down

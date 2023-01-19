@@ -1,0 +1,14 @@
+2023-01-11 09:47:44.010 [info] Extension host with pid 4091989 started
+2023-01-11 09:47:44.047 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/e90e356a29fb8d7c8a429de93d24acb6/vscode.lock': Lock acquired.
+2023-01-11 09:47:44.108 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-11 09:47:44.301 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-11 09:47:44.302 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-11 09:47:44.604 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:47:44.604 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:47:44.605 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:47:44.605 [info] Eager extensions activated
+2023-01-11 09:47:44.902 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.setAutoAttachVariables'
+2023-01-11 09:47:45.657 [error] Error: ENOENT: no such file or directory, scandir '/home/knykanen/public_html/be/redirect'
+2023-01-11 09:48:01.901 [info] Extension host terminating: received terminate message from renderer
+2023-01-11 09:48:01.901 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/e90e356a29fb8d7c8a429de93d24acb6/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-11 09:48:01.911 [info] Extension host with pid 4091989 exiting with code 0

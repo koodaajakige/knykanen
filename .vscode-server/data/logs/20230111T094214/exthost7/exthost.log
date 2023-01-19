@@ -1,0 +1,14 @@
+2023-01-11 09:46:07.480 [info] Extension host with pid 4091735 started
+2023-01-11 09:46:07.518 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/5f8781d5c4b6afa88c8390a7a181da31/vscode.lock': Lock acquired.
+2023-01-11 09:46:07.615 [info] ExtensionService#_doActivateExtension vscode.php-language-features, startup: false, activationEvent: 'onLanguage:php'
+2023-01-11 09:46:07.616 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-01-11 09:46:08.085 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-01-11 09:46:08.085 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-11 09:46:08.326 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:46:08.327 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:46:08.327 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-11 09:46:08.327 [info] Eager extensions activated
+2023-01-11 09:46:08.735 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.setAutoAttachVariables'
+2023-01-11 09:46:59.618 [info] Extension host terminating: received terminate message from renderer
+2023-01-11 09:46:59.619 [info] Lock '/home/knykanen/.vscode-server/data/User/workspaceStorage/5f8781d5c4b6afa88c8390a7a181da31/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2023-01-11 09:46:59.630 [info] Extension host with pid 4091735 exiting with code 0

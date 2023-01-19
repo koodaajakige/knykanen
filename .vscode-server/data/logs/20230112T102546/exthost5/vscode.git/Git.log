@@ -1,0 +1,43 @@
+2023-01-12 11:29:48.676 [info] Log level: Info
+2023-01-12 11:29:48.676 [info] Validating found git in: "git"
+2023-01-12 11:29:48.676 [info] Using git "2.30.2" from "git"
+2023-01-12 11:29:48.676 [info] > git rev-parse --show-toplevel [50ms]
+2023-01-12 11:29:48.676 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2023-01-12 11:29:48.676 [info] Open repository: /home/knykanen/public_html/redirect
+2023-01-12 11:29:48.676 [info] > git config --get commit.template [1ms]
+2023-01-12 11:29:48.676 [warning] No remotes found in the git config file.
+2023-01-12 11:29:48.676 [info] > git remote --verbose [1ms]
+2023-01-12 11:29:48.676 [info] > git status -z -uall [5ms]
+2023-01-12 11:29:48.676 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2023-01-12 11:29:48.676 [warning] No remotes found in the git config file.
+2023-01-12 11:29:48.676 [info] > git config --get commit.template [4ms]
+2023-01-12 11:29:48.676 [info] > git remote --verbose [1ms]
+2023-01-12 11:29:48.676 [info] > git status -z -uall [3ms]
+2023-01-12 11:29:48.676 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 11:29:48.676 [info] > git show --textconv :index.php [5ms]
+2023-01-12 11:29:48.676 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/index.php [2ms]
+2023-01-12 11:29:48.676 [info] > git cat-file -s 022c7f72e08a12e34e42fc56248dade93a540ea4 [1ms]
+2023-01-12 11:29:48.720 [info] > git check-ignore -v -z --stdin [1ms]
+2023-01-12 11:33:47.103 [warning] No remotes found in the git config file.
+2023-01-12 11:33:47.104 [info] > git config --get commit.template [5ms]
+2023-01-12 11:33:47.104 [info] > git remote --verbose [1ms]
+2023-01-12 11:33:47.111 [info] > git status -z -uall [3ms]
+2023-01-12 11:33:47.111 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 11:34:23.618 [info] > git show --textconv :funktio.php [4ms]
+2023-01-12 11:34:23.619 [info] > git ls-files --stage -- /home/knykanen/public_html/redirect/funktio.php [1ms]
+2023-01-12 11:34:23.624 [info] > git cat-file -s a2ff897b6af1cf89167da839c163152d513036da [1ms]
+2023-01-12 11:38:44.889 [warning] No remotes found in the git config file.
+2023-01-12 11:38:44.890 [info] > git config --get commit.template [4ms]
+2023-01-12 11:38:44.890 [info] > git remote --verbose [1ms]
+2023-01-12 11:38:44.896 [info] > git status -z -uall [3ms]
+2023-01-12 11:38:44.897 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 11:39:35.426 [warning] No remotes found in the git config file.
+2023-01-12 11:39:35.427 [info] > git config --get commit.template [4ms]
+2023-01-12 11:39:35.427 [info] > git remote --verbose [1ms]
+2023-01-12 11:39:35.434 [info] > git status -z -uall [4ms]
+2023-01-12 11:39:35.434 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]
+2023-01-12 11:39:51.304 [warning] No remotes found in the git config file.
+2023-01-12 11:39:51.304 [info] > git config --get commit.template [4ms]
+2023-01-12 11:39:51.305 [info] > git remote --verbose [0ms]
+2023-01-12 11:39:51.311 [info] > git status -z -uall [4ms]
+2023-01-12 11:39:51.312 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [1ms]

@@ -1,0 +1,10 @@
+<?php
+$luku1 = $_GET["luku1"];
+$luku2 = $_GET["luku2"];
+$luku3 = $_GET["luku3"];
+$summa = $luku1 + $luku2 + $luku3 ;
+
+echo 'Luvut: ' . $luku1 . ", " . $luku2 . " ja " . $luku3 . '<br>';
+echo 'Summa: ' . $summa . '<br>';
+echo 'Keskiarvo: ' . $summa / 3;
+?>
